@@ -1,5 +1,8 @@
+#Notes of ADS
+
+
 # Algorithms and Data Structures
-Topics:
+Topics: 
 
 # Day 1: Introduction to Data Structure + Recursion
 # Day 2: Backtracking 
